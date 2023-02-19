@@ -6,3 +6,10 @@
   url: https://onlinelibrary.wiley.com/
 "Science Direct":
   url: https://www.sciencedirect.com/
+"IJABE":
+  url: http://ijabe.org/
+"Springer":
+  url: https://link.springer.com
+  color: "#00369f"
+"IJSLE":
+  url: https://ojs.library.queensu.ca/index.php/ijsle
