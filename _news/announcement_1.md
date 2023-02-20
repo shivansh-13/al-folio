@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: April 2010
 inline: true
 ---
 
-A simple inline announcement.
+Excellent effort and vision towards the achievement of an eccentric glory of the institution by A D Patel Institute of Technology, New V V Nagar
