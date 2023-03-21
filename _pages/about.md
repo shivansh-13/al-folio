@@ -22,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 
 He obtained B.Tech. in Agricultural Engineering from `Orissa University of Agriculture and Technology`, Bhubaneswar, and completed M.Tech. in Agricultural Process and Food Engineering from `Junagadh Agricultural University` (Formerly known as Gujarat Agricultural University), Junagadh. During his M.Tech, he was awarded with prestigious Junior fellowship for best research-project proposal by ASPEE Agro Equipment Pvt. Ltd, Mumbai. He has done his doctoral research in Process and Food Engineering from `Govind Ballabh Pant University of Agriculture and Technology`, Uttrakhand. 
 
-His areas of research include design and development of Superheated Steam, Refractance Window and Electrohydrodynamic drying systems for production of high value dried products and computational modelling of drying kinetics using Artificial Neural Network. 
+His areas of research include design and development of `Superheated Steam, Refractance Window and Electrohydrodynamic drying systems` for production of high value dried products and computational modelling of drying kinetics using Artificial Neural Network. 
