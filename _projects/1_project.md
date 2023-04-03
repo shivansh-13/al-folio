@@ -1,80 +1,65 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Refractance Window Dryer 
+description: Application of Refractance Window Dryer in Food Industry/Food Product F. No. Q-11/5/2018-R Funded by Ministry of Food Processing Industries, New Delhi Under the scheme of Pradhan Mantri Kisan Sampada Yojana.  Total Project sanctioned amount is Rs. 29,88,624/- 
+
+img: assets/img/RW.png
 importance: 1
-category: work
+category: Research Project
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Refractance Window (RW) drying emerged as one of the viable and effective drying technology with immense potential in the area of fruits and vegetable powder. This RW drying system works at atmospheric pressure with a maximum temperature of 95oC. The RW drying method has become eye-catching for applications in the food industry, mainly because the dried products are of high quality and the equipment is relatively inexpensive. RW drier equipment cost and operational cost is in the tune of one-third to half of the freeze drier, considering drying of equal quantity of product 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 ```
-{% endraw %}
+The thermal energy of water is transferred through ––
+- conduction
+- convection 
+- radiation to the product. 
+
+This drying technique considered a thin layer drying system of puree or paste. 
+```
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/scrapes.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/flakes.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/powder.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+     On the left, Dried strawberry flakes after scraping process in RW dryer. Middle, Dried flakes of strawberry puree. Right, Ground strawberry powder
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/SEM.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+     SEM images of RW dried strawberry puree
+</div>
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/RW.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+ 
+</div>
+<div class="caption">
+    RW Dryer
+</div>
+
+# Outcomes
+
+
+- As RW drying temperature increased from 65°C to 85°C, an L* and a* value decreased while b* value increased. No significant change in L*, a* and b* values between RW dried samples at 65°C, and 75°C was observed (p<0.05). However, a significant change in color values was observed in the sample dried at 85°C. The darkness factor (b*/a*) increased from 0.304 to 0.397 when RW drying temperature increased from 65°C to 85°C
+
+- The bulk density of strawberry powder dried under RW drying was found to be 600, 550 and 530 kg/m3 at the drying temperature of 65, 75 and 85 0C respectively. At higher temperature, the rate of evaporation is faster and may create a more porous structure. The bulk porosity of RW sample was calculated about 0.464, 0.415 and 0.424 respectively. No significant difference (p<0.05) were observed in porosity of strawberry powder dried at different temperatures.
+
+- The fresh strawberry puree had a significant (p < .05) brighter color (higher L*) than RW dried sample and freeze dried sample and freeze dried sample. C value significantly decreased from 33.81(fresh puree) to 30.16 (RW dried reconstituted puree) and 31.45 (Freeze dried reconstituted puree). Freeze dried sample was more closer to fresh puree value.
+
+- The RW dried sample exhibits clear internal pores representing the formation of empty space during drying due to the evaporation of water was not replaced. This leads to moderate porous structure. The freeze dried sample depicted the external pores within the internal pores, resulted in high porosity of the sample.
